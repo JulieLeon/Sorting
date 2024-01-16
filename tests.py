@@ -1,4 +1,4 @@
-import Tri_bulle.py
+import Tri_bulle
 
 ## test 
 def tests_tri_bulle():
